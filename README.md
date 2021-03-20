@@ -19,3 +19,12 @@ This is a paragraph with a <data>term</data> delimited by the "data" tag. This i
 
 This is a paragraph with a <dt>term</dt> delimited by the "dt" tag. This is illegal outside a &lt;dl&gt;.
 
+<aside class="friendly">An aside</aside>
+
+## another header
+
+some text
+
+<aside class="friendly">An aside</aside>
+
+
